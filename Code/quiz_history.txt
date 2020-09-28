@@ -1,0 +1,6 @@
+Test File:C:\Users\Steven\OneDrive\Course Work\Year 2\Semester 2\C Programming\Assignment02\Code\test.txt	Score: 3/10	Difficulty: 5
+Test File:C:\Users\Steven\OneDrive\Course Work\Year 2\Semester 2\C Programming\Assignment02\Code\test.txt	Score: 5/10	Difficulty: 5
+Test File:C:\Users\Steven\OneDrive\Course Work\Year 2\Semester 2\C Programming\Assignment02\Code\test.txt	Score: 4/10	Difficulty: 2
+Test File:C:\Users\Steven\OneDrive\Course Work\Year 2\Semester 2\C Programming\Assignment02\Code\test.txt	Score: 8/10	Difficulty: 2
+Test File:C:\Users\Steven\OneDrive\Course Work\Year 2\Semester 2\C Programming\Assignment02\Code\test.txt	Score: 0/10	Difficulty: 2
+Test File:C:\Users\Steven\OneDrive\Course Work\Year 2\Semester 2\C Programming\Assignment02\Code\test.txt	Score: 1/10	Difficulty: 2
